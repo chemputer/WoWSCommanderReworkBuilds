@@ -1,0 +1,109 @@
+First off, total credit to this thread on Reddit, I took the builds from there, though I did go through and recreate the builds using wowsft.com, which took a bit of work. Hopefully, this is helpful. I'll do one ship class pe
+
+[CENTER][SIZE=5]Destroyers:[/SIZE][/CENTER]
+[B][U]Harugamo[/U][/B]
+
+[INDENT][URL="https://wowsft.com/ship?index=PJSD210&modules=11111&upgrades=131221&commander=PCW001&skills=4610084&ar=100&consumables=1111&pos=0"]"Traditional" Build[/URL]
+[IMG]https://i.imgur.com/vuPrrAz.png[/IMG]
+Comments: This departs from the "traditional" in the sense that it uses the new equivalent of AFT, and does not use IFHE. Yes, you're still at that 30mm threshold, but the 32mm threshold is still a relatively big one (see below) so I recommend a modified version of this.
+[U]Thresholds:
+[/U][IMG]https://i.imgur.com/G8Fi2AM.png[/IMG]
+
+[URL="https://wowsft.com/ship?index=PJSD210&modules=11111&upgrades=131221&commander=PCW001&skills=4380960&ar=100&consumables=1111&pos=0"]Modified "Traditional" Build[/URL]
+[IMG]https://i.imgur.com/I0lerme.png[/IMG]
+Comments: It switches out AFT (+20% range and +15% damage from AA flak) and Consumables Specialist (Reload time of Torpedo Reload Booster -10% & others that aren't relevant) for IFHE and Consumables Expert (Granting you +10% to the action time of engine boost and smoke generator) Personally, I think this is the most grounded and realistic build, but the whole point of this rework is to allow variety.
+
+[URL="https://wowsft.com/ship?index=PJSD210&modules=11111&upgrades=131221&commander=PCW001&skills=448608&ar=100&consumables=1111&pos=0"]Jackass farming build
+[/URL]
+[IMG]https://i.imgur.com/T4XHzjW.png[/IMG]
+Comments: Keeps AFT, adds IFHE and Pyrotechnist (+1% Fire chance), but sacrifices CE and Consumables Specialist (-10% to Torp Reload Booster)[/INDENT]
+
+[B][U]Halland/Shimakaze/Gearing/Yueyang/Somers[/U][/B]
+
+[INDENT][URL="https://wowsft.com/ship?index=PWSD110&modules=11111&upgrades=134222&commander=PCW001&skills=13772832&consumables=1111&pos=0"]"Generic Torpedoboat Build"[/URL]
+[IMG]https://i.imgur.com/aETT5SU.png[/IMG]
+
+[URL="https://wowsft.com/ship?index=PASD013&modules=11111&upgrades=134221&commander=PCW001&skills=12736560&ar=100&consumables=111&pos=0"]Gearing Alternative Build
+[/URL]
+[IMG]https://i.imgur.com/ThkFp0C.png[/IMG]
+Google Doc Comments: 
+[LIST]
+[*]Even though she is more of a torpedo than gun DD, Gearing still has respectable guns
+[*]Swaps either Dazzle or RPF for AR, and TAE for BFT. I recommend keeping Dazzle because you may benefit from popping in and out of concealment more than from RPF. You can make up for the lack of RPF with good gamesense anyway.
+[*]This build is also recommended for T8 and lower USN DDs
+[/LIST]
+
+[URL="https://wowsft.com/ship?index=PWSD110&modules=11111&upgrades=134221&commander=PCW001&skills=12789794&consumables=1111&pos=0"]Halland Alternative build
+[/URL]
+[IMG]https://i.imgur.com/iHrO48n.png[/IMG]
+Google Doc Comments:
+[LIST]
+[*]The point of this build is to enable you to have a bit more freedom with engaging DDs since you get an extra heal out of it. You can swap SI for BFT if you don’t find yourself needing the 4th heal, and if you like shooting down a plane or 2 more than usual. You can even drop Dazzle for either SI or BFT (whichever you didn’t pick) if you want even more emphasis on self-defense.
+[/LIST]
+
+[URL="https://wowsft.com/ship?index=PRSD110&modules=11111&upgrades=133331&commander=PCW001&skills=2512944&ar=100&consumables=111&pos=0"]Khabarovsk[/URL]
+[IMG]https://i.imgur.com/TadO3Rb.png[/IMG]
+Google Doc Comments:
+[LIST]
+[*]You may swap BFT for SI if you feel like you’re missing out on the extra heal
+[*]Her legendary upgrade is worth noting as it gives you extra damage output and range
+[*]Also applies to the preceding gunboats, but you might want to swap AFT or BFT+EM for CE considering preceding DDs can stealth torp and generally have much better stealth
+[/LIST]
+
+[URL="https://wowsft.com/ship?index=PRSD210&modules=11111&upgrades=133221&commander=PCW001&skills=4671536&ar=100&consumables=11111&pos=0"]Grozovoi[/URL]
+[IMG]https://i.imgur.com/5sXcUXd.png[/IMG]
+Google Doc Comments:
+[LIST]
+[*]If you feel like you don’t need the extra range for gunboating and dealing damage, swap AFT for BFT, drop IFA and spec DE with the leftover point.
+[*]For a jackass NA farming build, give up CE for Fearless
+[*]Using the legendary upgrade is highly recommended
+[*]Also applies to Udaloi
+[*]Ovechkin is recommended because of his improved SE.
+[/LIST]
+
+[URL="https://wowsft.com/ship?index=PGSD110&modules=11111&upgrades=133221&commander=PCW001&skills=4610082&ar=100&consumables=1111&pos=0"]Z-52[/URL]
+[IMG]https://i.imgur.com/kCYEctB.png[/IMG]
+Google Doc comments:
+[LIST]
+[*]You may swap AFT for Dazzling if you feel like you don’t need the extra gun range, or SI + whatever 1pt skill if you feel like you need the 4th smoke and engine boost
+[*]Torpedo skills are not recommended because the guns are simply the better weapon
+[*]Applies to all German DDs except Z-44
+[*]You could still opt to run the torpedo module in slot 3
+[/LIST]
+
+[URL="https://wowsft.com/ship?index=PBSD110&modules=11111&upgrades=134221&commander=PCW001&skills=4413536&ar=100&consumables=1111&pos=0"]Daring [/URL]
+[IMG]https://i.imgur.com/D62jl6G.png[/IMG]
+Google Doc Comments:
+[LIST]
+[*]If you like chasing DDs around, you can swap SI, and Pyro for RPF and whichever 1 pt skill you fancy. You can also swap them for Dazzle or Fearless, but keep in mind that picking Fearless nerfs your concealment a bit and makes contesting caps more difficult
+[*]Applies to all other RN DDs
+[/LIST]
+
+[B][U]Kleber[/B][/U]
+
+[URL="https://wowsft.com/ship?index=PFSD110&modules=11111&upgrades=131321&commander=PCW001&skills=5396513&ar=100&consumables=111&pos=0"]Kleber - Build 1 - "Sweaty Tryhard"[/URL]
+[IMG]https://i.imgur.com/9Y42aLU.png[/IMG]
+
+[URL="https://wowsft.com/ship?index=PFSD110&modules=11111&upgrades=131221&commander=PCW001&skills=2529320&consumables=111&pos=0"]Kleber - Build 2 - "Jackass Farm"[/URL]
+[IMG]https://i.imgur.com/PaFPmsy.png[/IMG]
+
+[URL="https://wowsft.com/ship?index=PFSD110&modules=11111&upgrades=131225&commander=PCW001&skills=4872225&ar=100&consumables=111&pos=0"]Kleber - Build 3 - Legendary Module[/URL]
+[IMG]https://i.imgur.com/SIOZYIp.png[/IMG]
+
+[URL="https://wowsft.com/ship?index=PFSD210&modules=11111&upgrades=131221&commander=PCW001&skills=6703136&ar=100&consumables=111&pos=0"]Marceau[/URL]
+[IMG]https://i.imgur.com/siIJVZz.png[/IMG]
+Google Doc Comments:
+[LIST]
+[*]Marceau’s concealment makes speccing CE on her a lot more valuable than on kleber. AFT is a requirement rather than a luxury. You can sacrifice Fearless Brawler for BFT and a 1pt skill if you want to lose a bit of DPM for 300m better concealment.
+[*]If you do really want to jackass farm, spec BFT instead of CE. This will likely raise your damage numbers at the expense of win rate.
+[/LIST]
+
+[URL="https://wowsft.com/ship?index=PWSD610&modules=11111&upgrades=134221&commander=PCW001&skills=6703136&ar=100&consumables=1111&pos=0"]Småland[/URL]
+[IMG]https://i.imgur.com/C1ELy9K.png[/IMG]
+Google Doc Comments:
+[LIST]
+[*]You may swap the Fearless skill for Any other 4pt skill. This one is simply better for farming randumbs as you can still stealth radar with this build (6.5km conceal). You can also drop Concealment for even more farming or mobility and still keep your stealth radar (7.2km conceal).
+[*]Swirski is good on this ship because of the improved AR and the torpedo talent.
+[/LIST]
+
+[/INDENT]
